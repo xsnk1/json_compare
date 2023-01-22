@@ -1,0 +1,24 @@
+{
+    "isActive": false,
+    "age": 23,
+    "eyeColor": "green",
+    "company": "ARCHITAX",
+    "group1": {
+        "key1": 200,
+        "key2": "female",
+        "key4": {
+            "myKey": "cool",
+            "yourKey": {
+                "hello": "it",
+                "is": "me"
+            }
+        }
+    },
+    "group2": {
+        "group3": {
+            "group4": {
+                "empty": false
+            }
+        }
+    }
+}

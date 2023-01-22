@@ -1,0 +1,27 @@
+{
+    "isActive": false,
+    "company": "HYPLEX",
+    "somebody": "once told me",
+    "group1": {
+        "key1": 200,
+        "key2": "male",
+        "key3": "hi",
+        "key4": {
+            "myKey": "not so cool",
+            "yourKey": {
+                "changed": {
+                    "fancy": "tower"
+                }
+            }
+        }
+    },
+    "group2": {
+        "group3": {
+            "incredible": 1333133,
+            "impossible": false,
+            "group4": {
+                "empty": "maybe"
+            }
+        }
+    }
+}
